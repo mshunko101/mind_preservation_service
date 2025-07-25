@@ -1,4 +1,4 @@
-![Сохранение](https://github.com/mshunko101/mind_preservation_service/blob/main/Сохранение%20РБ.png)
+<img src="Сохранение локализированный.png" width="500"/>
 # Логотип «Службы Сохранения» / Mind Preservation Service
 
 ---
