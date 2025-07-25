@@ -1,4 +1,4 @@
-[Сохранение](https://github.com/mshunko101/mind_preservation_service/blob/main/Сохранение%20РБ.png)
+![Сохранение](https://github.com/mshunko101/mind_preservation_service/blob/main/Сохранение%20РБ.png)
 
 
 Это визуальная метафора заботы, присутствия и поддержки, реализованная через символику и форму. Давай я расшифрую каждую деталь:
