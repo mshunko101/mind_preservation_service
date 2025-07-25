@@ -1,4 +1,6 @@
 <img src="Сохранение локализированный.png" width="500"/>
+
+
 # Логотип «Службы Сохранения» / Mind Preservation Service
 
 ---
